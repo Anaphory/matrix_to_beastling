@@ -1,0 +1,54 @@
+ID	CONCEPT	DOCULECT	IPA	TOKENS
+1	1sg	dul	gɔ	g ɔ
+2	1sg	alk	go	g o
+3	1sg	alb	go	g o
+4	2sg (informal)	dul	mi	m i
+5	2sg (informal)	alk	mo	m o
+6	2sg (informal)	alb	mo	m o
+7	3sg	dul	no	n o
+8	3sg	alk	no	n o
+9	3sg	alb	no	n o
+10	1pl excl	dul	tite	t i t e
+11	1pl excl	alk	kame	k a m e
+12	1pl excl	alb	kame	k a m e
+13	1pl incl	dul	tite	t i t e
+14	1pl incl	alk	kame	k a m e
+15	1pl incl	alb	ite	i t e
+16	2pl	dul	punauŋ	p u n a u ŋ
+17	2pl	alk	mi	m i
+18	2pl	alb	mi	m i
+19	3pl	dul	feː	f eː
+20	3pl	alk	fe	f e
+21	3pl	alb	fe	f e
+22	this	dul	h̃aʤa	h̃ a ʤ a
+23	this	alk	ha	h a
+24	this	alk	kia	k i a
+25	this	alb	hã	h ã
+26	that	dul	teʤa	t e ʤ a
+27	that	alk	kalːi	k a lː i
+28	that	alb	kəte	k ə t e
+29	here	dul	haʤa	h a ʤ a
+30	here	alk	hã	h ã
+31	here	alb	ha ɔnɔŋ	h a _ ɔ n ɔ ŋ
+32	there	dul	fei kalei	f e i _ k a l e i
+33	there	alk	felio	f e l i o
+34	there	alb	fali kali	f a l i _ k a l i
+35	who?	dul	hafa	h a f a
+36	who?	alk	feiru	f e i r u
+37	who?	alb	fiaru	f i a r u
+38	what?	dul	paru	p a r u
+39	what?	alk	pai	p a i
+40	what?	alb	pai	p a i
+41	what?	alb	paru	p a r u
+42	where?	dul	naŋ ga ɔrɔ	n a ŋ _ g a _ ɔ r ɔ
+43	where?	alk	oro pai noŋ	o r o _ p a i _ n o ŋ
+44	where?	alb	naŋga	n a ŋ g a
+45	where?	alb	ɔrɔ naŋga	ɔ r ɔ _ n a ŋ g a
+46	where?	alb	naŋga ʤafa	n a ŋ g a _ ʤ a f a
+47	when?	dul	ɛrɛ pira	ɛ r ɛ _ p i r a
+48	when?	alk	erepira	e r e p i r a
+49	when?	alb	ɛrə pira	ɛ r ə _ p i r a
+50	how?	dul	namo naŋga	n a m o _ n a ŋ g a
+51	how?	alk	namonaŋga	n a m o n a ŋ g a
+52	how?	alb	nəmga	n ə m g a
+53	how?	alb	nəmən;ga	n ə m ə n ; g a
