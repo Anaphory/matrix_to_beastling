@@ -25,6 +25,8 @@ with open("wordlist.tsv", "w") as out:
       lect = cell(0, col)
       for form in cell(row, col).split(","):
         form = form.strip()
+        if not form:
+          continue
         segments = segment(form)
         write([i, concept, lect, form, segments])
         i += 1
