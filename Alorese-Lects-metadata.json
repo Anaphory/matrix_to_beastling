@@ -1,0 +1,121 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/csvw",
+        {
+            "@language": "en"
+        }
+    ],
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:creator": [
+        "Sulistyono, Yunus",
+        "",
+        "Kaiping, Gereon Alexander"
+    ],
+    "dc:description": "Lexical data of 13 Alorese [alor1247] dialects, abridged",
+    "dc:identifier": "Alorese Dialects 0.1.0, abridged",
+    "dc:license": "Ⓒ 2018 Yunus Sulistyono",
+    "dc:publisher": "Leiden University Centre for Linguistics",
+    "dc:title": "Alorese Dialects, abridged",
+    "dc:coverage": "http://vocab.getty.edu/page/tgn/1009828",
+    "dc:isReferencedBy": "https://calc.hypotheses.org/803",
+    "special:contact": "g.a.kaiping@hum.leidenuniv.nl",
+    "special:publisher_place": "Leiden, The Netherlands",
+    "special:publisher_url": "http://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics",
+    "dialect": {
+        "commentPrefix": null
+    },
+    "tables": [
+        {
+            "dialect": {
+                "delimiter": "\t"
+            },
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "integer",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "required": true,
+                        "name": "CONCEPT"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "required": true,
+                        "name": "DOCULECT"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+                        "required": false,
+                        "name": "IPA"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
+                        "required": false,
+                        "separator": " ",
+                        "name": "TOKENS"
+                    },
+                    {
+                        "datatype": "integer",
+                        "required": false,
+                        "separator": " ",
+                        "name": "SONARS"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#prosodicStructure",
+                        "required": false,
+                        "name": "PROSTRINGS"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "name": "CLASSES"
+                    },
+                    {
+                        "datatype": "integer",
+                        "required": false,
+                        "name": "LANGID"
+                    },
+                    {
+                        "datatype": "string",
+                        "required": false,
+                        "separator": " ",
+                        "name": "NUMBERS"
+                    },
+                    {
+                        "datatype": "boolean",
+                        "required": false,
+                        "name": "DUPLICATES"
+                    },
+                    {
+                        "datatype": "integer",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+                        "required": false,
+                        "separator": " ",
+                        "name": "PARTIAL_IDS"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
+                        "required": false,
+                        "separator": " ",
+                        "name": "ALIGNMENT"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "aligned.tsv"
+        }
+    ]
+}
