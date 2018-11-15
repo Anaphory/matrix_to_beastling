@@ -4,8 +4,15 @@ import lingpy.compare.partial
 lex = lingpy.compare.partial.Partial(
   "wordlist.tsv")
 
-lex.get_scorer(runs=10000)
-lex.output('tsv', filename='lexstats', ignore=[])
+try:
+  scorers_etc = lingpy.compare.lexstat.LexStat(
+    "lexstats.tsv")
+  lex.scorer = scorers_etc.scorer
+  lex.cscorer = scorers_etc.cscorer
+  lex.bscorer = scorers_etc.bscorer
+except OSError:
+  lex.get_scorer(runs=10000)
+  lex.output('tsv', filename='lexstats', ignore=[])
 
 lex.partial_cluster(
   method='lexstat',
