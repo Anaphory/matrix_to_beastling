@@ -1,0 +1,54 @@
+ID	CONCEPT	DOCULECT	IPA	TOKENS	SONARS	PROSTRINGS	CLASSES	LANGID	NUMBERS	WEIGHTS	DUPLICATES	PARTIAL_IDS	ALIGNMENT
+10	1pl excl	dul	tite	t i t e	1 7 1 7	AXBZ	TITE	3	3.T.C 3.I.V 3.T.C 3.E.V	2.0 1.5 1.75 0.8	0	2	t i t e
+11	1pl excl	alk	kame	k a m e	1 7 4 7	AXBZ	KAME	2	2.K.C 2.A.V 2.M.C 2.E.V	2.0 1.5 1.75 0.8	0	1	k a m e
+12	1pl excl	alb	kame	k a m e	1 7 4 7	AXBZ	KAME	1	1.K.C 1.A.V 1.M.C 1.E.V	2.0 1.5 1.75 0.8	0	1	k a m e
+13	1pl incl	dul	tite	t i t e	1 7 1 7	AXBZ	TITE	3	3.T.C 3.I.V 3.T.C 3.E.V	2.0 1.5 1.75 0.8	1	3	t i t e
+14	1pl incl	alk	kame	k a m e	1 7 4 7	AXBZ	KAME	2	2.K.C 2.A.V 2.M.C 2.E.V	2.0 1.5 1.75 0.8	1	4	k a m e
+15	1pl incl	alb	ite	i t e	7 1 7	XBZ	ITE	1	1.I.V 1.T.C 1.E.V	1.5 1.75 0.8	0	5	i t e
+1	1sg	dul	gɔ	g ɔ	1 7	AX	KU	3	3.K.C 3.U.V	2.0 1.5	0	6	g ɔ
+2	1sg	alk	go	g o	1 7	AX	KU	2	2.K.C 2.U.V	2.0 1.5	0	6	g o
+3	1sg	alb	go	g o	1 7	AX	KU	1	1.K.C 1.U.V	2.0 1.5	0	6	g o
+16	2pl	dul	punauŋ	p u n a u ŋ	1 7 4 7 7 4	AXBYYN	PYNAYN	3	3.P.C 3.Y.V 3.N.C 3.A.V 3.Y.V 3.N.c	2.0 1.5 1.75 1.3 1.3 0.8	0	8	p u n a u ŋ
+17	2pl	alk	mi	m i	4 7	AX	MI	2	2.M.C 2.I.V	2.0 1.5	0	7	m i
+18	2pl	alb	mi	m i	4 7	AX	MI	1	1.M.C 1.I.V	2.0 1.5	0	7	m i
+4	2sg (informal)	dul	mi	m i	4 7	AX	MI	3	3.M.C 3.I.V	2.0 1.5	0	10	m i
+5	2sg (informal)	alk	mo	m o	4 7	AX	MU	2	2.M.C 2.U.V	2.0 1.5	0	9	m o
+6	2sg (informal)	alb	mo	m o	4 7	AX	MU	1	1.M.C 1.U.V	2.0 1.5	0	9	m o
+19	3pl	dul	feː	f eː	3 7	AX	BE	3	3.B.C 3.E.V	2.0 1.5	0	11	f eː
+20	3pl	alk	fe	f e	3 7	AX	BE	2	2.B.C 2.E.V	2.0 1.5	0	11	f e
+21	3pl	alb	fe	f e	3 7	AX	BE	1	1.B.C 1.E.V	2.0 1.5	0	11	f e
+7	3sg	dul	no	n o	4 7	AX	NU	3	3.N.C 3.U.V	2.0 1.5	0	12	n o
+8	3sg	alk	no	n o	4 7	AX	NU	2	2.N.C 2.U.V	2.0 1.5	0	12	n o
+9	3sg	alb	no	n o	4 7	AX	NU	1	1.N.C 1.U.V	2.0 1.5	0	12	n o
+29	here	dul	haʤa	h a ʤ a	3 7 2 7	AXBZ	HACA	3	3.H.C 3.A.V 3.C.C 3.A.V	2.0 1.5 1.75 0.8	0	13	h a ʤ a
+30	here	alk	hã	h ã	3 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	0	13	h ã - -
+31	here	alb	ha ɔnɔŋ	h a _ ɔ n ɔ ŋ	3 7 9 7 4 7 4	AX_XBYN	HA_UNUN	1	1.H.C 1.A.V 1._._ 1.U.V 1.N.C 1.U.V 1.N.c	2.0 1.5 0.0 1.5 1.75 1.3 0.8	0	13 14	h a - - + ɔ n ɔ ŋ
+50	how?	dul	namo naŋga	n a m o _ n a ŋ g a	4 7 4 7 9 4 7 4 1 7	AXBZ_AXMBZ	NAMU_NANKA	3	3.N.C 3.A.V 3.M.C 3.U.V 3._._ 3.N.C 3.A.V 3.N.c 3.K.C 3.A.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.1 1.75 0.8	0	18 17	n a m o + n a ŋ g a
+51	how?	alk	namonaŋga	n a m o n a ŋ g a	4 7 4 7 4 7 4 1 7	AXBYBYMBZ	NAMUNANKA	2	2.N.C 2.A.V 2.M.C 2.U.V 2.N.C 2.A.V 2.N.c 2.K.C 2.A.V	2.0 1.5 1.75 1.3 1.75 1.3 1.1 1.75 0.8	0	15	n a m o n a ŋ g a
+52	how?	alb	nəmga	n ə m g a	4 7 4 1 7	AXMBZ	NEMKA	1	1.N.C 1.E.V 1.M.c 1.K.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0	16	n ə m g a
+53	how?	alb	nəmən;ga	n ə m ə n ; g a	4 7 4 7 4 0 1 7	AXBYMBCZ	NEMEN0KA	1	1.N.C 1.E.V 1.M.C 1.E.V 1.N.c 1.0.C 1.K.C 1.A.V	2.0 1.5 1.75 1.3 1.1 1.75 1.5 0.8	0	15	n ə m ə n ; - g a
+26	that	dul	teʤa	t e ʤ a	1 7 2 7	AXBZ	TECA	3	3.T.C 3.E.V 3.C.C 3.A.V	2.0 1.5 1.75 0.8	0	19	t e ʤ a
+27	that	alk	kalːi	k a lː i	1 7 5 7	AXBZ	KALI	2	2.K.C 2.A.V 2.L.C 2.I.V	2.0 1.5 1.75 0.8	0	20	k a lː i
+28	that	alb	kəte	k ə t e	1 7 1 7	AXBZ	KETE	1	1.K.C 1.E.V 1.T.C 1.E.V	2.0 1.5 1.75 0.8	0	21	k ə t e
+32	there	dul	fei kalei	f e i _ k a l e i	3 7 7 9 1 7 5 7 7	AXZ_AXBYZ	BEI_KALEI	3	3.B.C 3.E.V 3.I.V 3._._ 3.K.C 3.A.V 3.L.C 3.E.V 3.I.V	2.0 1.5 0.8 0.0 2.0 1.5 1.75 1.3 0.8	0	24 22	f e i + k a l e i
+33	there	alk	felio	f e l i o	3 7 5 7 7	AXBYZ	BELIU	2	2.B.C 2.E.V 2.L.C 2.I.V 2.U.V	2.0 1.5 1.75 1.3 0.8	0	25	f e l i o
+34	there	alb	fali kali	f a l i _ k a l i	3 7 5 7 9 1 7 5 7	AXBZ_AXBZ	BALI_KALI	1	1.B.C 1.A.V 1.L.C 1.I.V 1._._ 1.K.C 1.A.V 1.L.C 1.I.V	2.0 1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	0	23 22	f a l i + k a l - i
+22	this	dul	h̃aʤa	h̃ a ʤ a	3 7 2 7	AXBZ	HACA	3	3.H.C 3.A.V 3.C.C 3.A.V	2.0 1.5 1.75 0.8	0	26	h̃ a ʤ a
+23	this	alk	ha	h a	3 7	AX	HA	2	2.H.C 2.A.V	2.0 1.5	0	26	h a - -
+24	this	alk	kia	k i a	1 7 7	AXZ	KIA	2	2.K.C 2.I.V 2.A.V	2.0 1.5 0.8	0	27	k i a
+25	this	alb	hã	h ã	3 7	AX	HA	1	1.H.C 1.A.V	2.0 1.5	0	26	h ã - -
+38	what?	dul	paru	p a r u	1 7 5 7	AXBZ	PARY	3	3.P.C 3.A.V 3.R.C 3.Y.V	2.0 1.5 1.75 0.8	0	28	p a r u
+39	what?	alk	pai	p a i	1 7 7	AXZ	PAI	2	2.P.C 2.A.V 2.I.V	2.0 1.5 0.8	0	28	p a - i
+40	what?	alb	pai	p a i	1 7 7	AXZ	PAI	1	1.P.C 1.A.V 1.I.V	2.0 1.5 0.8	0	28	p a - i
+41	what?	alb	paru	p a r u	1 7 5 7	AXBZ	PARY	1	1.P.C 1.A.V 1.R.C 1.Y.V	2.0 1.5 1.75 0.8	0	28	p a r u
+47	when?	dul	ɛrɛ pira	ɛ r ɛ _ p i r a	7 5 7 9 1 7 5 7	XBZ_AXBZ	ERE_PIRA	3	3.E.V 3.R.C 3.E.V 3._._ 3.P.C 3.I.V 3.R.C 3.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	0	30 29	ɛ r ɛ + p i r a
+48	when?	alk	erepira	e r e p i r a	7 5 7 1 7 5 7	XBYBYBZ	EREPIRA	2	2.E.V 2.R.C 2.E.V 2.P.C 2.I.V 2.R.C 2.A.V	1.5 1.75 1.3 1.75 1.3 1.75 0.8	0	31	e r e p i r a
+49	when?	alb	ɛrə pira	ɛ r ə _ p i r a	7 5 7 9 1 7 5 7	XBZ_AXBZ	ERE_PIRA	1	1.E.V 1.R.C 1.E.V 1._._ 1.P.C 1.I.V 1.R.C 1.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.75 0.8	0	30 29	ɛ r ə + p i r a
+42	where?	dul	naŋ ga ɔrɔ	n a ŋ _ g a _ ɔ r ɔ	4 7 4 9 1 7 9 7 5 7	AXN_AX_XBZ	NAN_KA_URU	3	3.N.C 3.A.V 3.N.c 3._._ 3.K.C 3.A.V 3._._ 3.U.V 3.R.C 3.U.V	2.0 1.5 0.8 0.0 2.0 1.5 0.0 1.5 1.75 0.8	0	32 36 35	n a ŋ - - + g a + ɔ r ɔ
+43	where?	alk	oro pai noŋ	o r o _ p a i _ n o ŋ	7 5 7 9 1 7 7 9 4 7 4	XBZ_AXZ_AXN	URU_PAI_NUN	2	2.U.V 2.R.C 2.U.V 2._._ 2.P.C 2.A.V 2.I.V 2._._ 2.N.C 2.U.V 2.N.c	1.5 1.75 0.8 0.0 2.0 1.5 0.8 0.0 2.0 1.5 0.8	0	33 38 37	o r o + p a i + n o ŋ
+44	where?	alb	naŋga	n a ŋ g a	4 7 4 1 7	AXMBZ	NANKA	1	1.N.C 1.A.V 1.N.c 1.K.C 1.A.V	2.0 1.5 1.1 1.75 0.8	0	32	n a ŋ g a
+45	where?	alb	ɔrɔ naŋga	ɔ r ɔ _ n a ŋ g a	7 5 7 9 4 7 4 1 7	XBZ_AXMBZ	URU_NANKA	1	1.U.V 1.R.C 1.U.V 1._._ 1.N.C 1.A.V 1.N.c 1.K.C 1.A.V	1.5 1.75 0.8 0.0 2.0 1.5 1.1 1.75 0.8	0	33 32	ɔ r ɔ + n a ŋ g a
+46	where?	alb	naŋga ʤafa	n a ŋ g a _ ʤ a f a	4 7 4 1 7 9 2 7 3 7	AXMBZ_AXBZ	NANKA_CABA	1	1.N.C 1.A.V 1.N.c 1.K.C 1.A.V 1._._ 1.C.C 1.A.V 1.B.C 1.A.V	2.0 1.5 1.1 1.75 0.8 0.0 2.0 1.5 1.75 0.8	0	32 34	n a ŋ g a + ʤ a f a
+35	who?	dul	hafa	h a f a	3 7 3 7	AXBZ	HABA	3	3.H.C 3.A.V 3.B.C 3.A.V	2.0 1.5 1.75 0.8	0	39	h a f a
+36	who?	alk	feiru	f e i r u	3 7 7 5 7	AXYBZ	BEIRY	2	2.B.C 2.E.V 2.I.V 2.R.C 2.Y.V	2.0 1.5 1.3 1.75 0.8	0	40	f e i r u
+37	who?	alb	fiaru	f i a r u	3 7 7 5 7	AXYBZ	BIARY	1	1.B.C 1.I.V 1.A.V 1.R.C 1.Y.V	2.0 1.5 1.3 1.75 0.8	0	41	f i a r u
